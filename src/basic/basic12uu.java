@@ -14,8 +14,8 @@ public class basic12uu {
         intArray[i] = sc.nextInt();
 
         if (intArray[i] % 2 == 0 && intArray[i] % 3 == 0) {
-            System.out.println(intArray[i]);
         }
+        System.out.println(intArray[i]);
     }
 
     }
